@@ -117,4 +117,4 @@ Never commit your token or your `.env` file, and never post them in screenshots.
 
 ## Contact
 
-Questions, or want to request approval for community or commercial use? Reach me at **[YOUR EMAIL OR DISCORD]**.
+Questions, or want to request approval for community or commercial use? Reach me at **Khadkayogen455@gmail.com / Yogen_k**.
