@@ -1,0 +1,29 @@
+# Secrets - NEVER commit these
+.env
+*.env
+!.env.example
+token.txt
+config.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# Local data
+*.db
+*.sqlite
+*.sqlite3
+*.log
+data/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
