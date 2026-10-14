@@ -213,6 +213,13 @@ tempCodeRunnerFile.py
 
 # Marimo
 marimo/_static/
+
+token.txt
+config.json
+*.db
+*.sqlite
+*.sqlite3
+data/
 marimo/_lsp/
 __marimo__/
 
