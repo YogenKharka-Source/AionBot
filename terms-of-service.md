@@ -75,4 +75,4 @@ We may update these Terms from time to time. The "Last updated" date above will 
 
 ## 14. Contact
 
-Questions about these Terms: **[CONTACT EMAIL]**
+Questions about these Terms: **Khadkayogen455@gmail.com**
