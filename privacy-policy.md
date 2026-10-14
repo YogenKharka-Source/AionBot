@@ -80,4 +80,4 @@ We may update this policy from time to time. The "Last updated" date above will 
 
 ## 11. Contact
 
-Privacy questions or deletion requests: **[CONTACT EMAIL]**
+Privacy questions or deletion requests: **Khdakayogen455@gmail.com**
