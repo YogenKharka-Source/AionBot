@@ -1,4 +1,5 @@
 discord.py>=2.4
 python-dotenv>=1.0
+aiohttp
 # Add any other packages your bot uses, or generate with:
 #   pip freeze > requirements.txt
